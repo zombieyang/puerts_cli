@@ -10,7 +10,7 @@
     "typescript",
     "unity js"
   ],
-  "description": "PureTS is a quick scaffold tool, which can be used in the project.",
+  "description": "PuerTS is a quick scaffold tool, which can be used in the project.",
   "engines": {
     "node": ">=16.15.0",
     "npm": ">=8.5.5"
